@@ -18,4 +18,6 @@ Peter 123
 Hugo 321
 Jonatan 231
 
-game 2019-04-19 16:04
+game 2019-04-19 16:06
+Hugo 1
+Jakob 2
