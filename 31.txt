@@ -29,3 +29,8 @@ Nisse 2
 game 2019-04-19 16:17
 Rakel 1
 Allan 2
+
+game 2019-04-19 17:04
+Hugo 12
+Peter 100000
+Kaj 9999
