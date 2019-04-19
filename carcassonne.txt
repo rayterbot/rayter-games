@@ -62,10 +62,9 @@ Frankfurt       58
 
 
 
- 
 
-                game 2019-03-27 19:00 
-                Peter 1                
-                Jonatan 2
-                Jakob 3 
-            
+
+game 2019-03-27 19:00 
+Peter 1
+Jonatan 2
+Jakob 3 
