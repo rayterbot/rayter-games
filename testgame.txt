@@ -1,5 +1,0 @@
-game_name Test game
-
-game 1477-01-01 00:01
-Linné 10
-Bellman 1
