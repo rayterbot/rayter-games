@@ -34,3 +34,7 @@ game 2019-04-19 17:04
 Hugo 12
 Peter 100000
 Kaj 9999
+
+game 2019-04-21 11:18
+Allan 1
+Emil -10
