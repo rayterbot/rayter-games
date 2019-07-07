@@ -30,3 +30,15 @@ game 2019-07-05 22:26
 Peter 1
 Jonatan 0
 Rakel 0
+
+game 2019-07-07 19:53
+Peter 0
+Agnete 0
+Allan 0
+Select a player 0
+Select a player 0
+Select a player 0
+Select a player 0
+Select a player 0
+Select a player 0
+Select a player 0
