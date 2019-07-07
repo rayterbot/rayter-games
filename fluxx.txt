@@ -30,3 +30,7 @@ game 2019-07-05 22:26
 Peter 1
 Jonatan 0
 Rakel 0
+
+game 2019-07-07 21:25
+Agnete 100
+Allan 200
