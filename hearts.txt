@@ -275,3 +275,59 @@ Jonatan 75
 Jessica 102
 Harald  112
 
+
+game 2019-05-05 21:33
+Jonatan 51
+Peter 39
+Rakel 118
+
+game 2019-06-30 16:01
+Agnes 89
+HaraldOtto 59
+Peter 99
+Elon 122
+
+game 2019-07-01 20:10
+Axel 62
+HaraldOtto 102
+Jessica 73
+Elon 55
+Agnes 78
+Peter 52
+Jakob 18
+
+game 2019-07-04 19:26
+HaraldOtto 97
+Jonatan 114
+Peter 107
+Jakob 81
+Elon 120
+
+game 2019-07-04 22:11
+HaraldOtto 30
+Jonatan 37
+Elon 116
+Axel 35
+Peter 42
+
+game 2019-07-05 13:53
+Elon 73
+Hugo 89
+HaraldOtto 116
+Peter 49
+Axel 37
+
+game 2019-07-05 20:33
+HaraldOtto 32
+Hanna 115
+Peter 27
+Jonatan 15
+Elon 46
+Axel 51
+
+game 2019-07-06 19:03
+Elon 79
+Harald 29
+Hanna 53
+Hugo 109
+Axel 68

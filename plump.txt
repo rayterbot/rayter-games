@@ -132,6 +132,7 @@ Harald  96
 Jonatan 107
 Elon 55
 
+<<<<<<< HEAD
 game 2019-04-19 19:59
 Peter 67
 Mia 72
@@ -141,3 +142,66 @@ Harald 102
 HaraldOtto 73
 Jessica 89
 Agnes 27
+=======
+game 2019-04-19 21:30
+Peter 67
+MiaJ 72
+HaraldOtto 73
+Rakel 73
+Jonatan 84
+Harald 102
+Jessica 89
+Agnes 27
+Elon 93
+
+
+
+game 2019-04-20 11:06
+Elon 71
+Peter 62
+Rakel 41
+Jonatan 88
+
+game 2019-04-21 13:17
+Agnes 93
+Peter 91
+HaraldOtto 44
+MiaJ 68
+Elon 64
+
+game 2019-04-21 20:39
+Elon 69
+Agnes 73
+Jonatan 21
+Peter 64
+Jessica 61
+Mia 38
+
+game 2019-04-22 20:19
+Harald 85
+Hugo 51
+Jonatan 92
+Rakel 94
+Jessica 83
+
+game 2019-05-30 19:51
+Elon 60
+Viveka 21
+MiaJ 39
+Peter 40
+
+game 2019-06-05 19:41
+Harald 66
+Hugo 51
+Jessica 89
+Peter 77
+
+game 2019-07-02 20:36
+Peter 107
+HaraldOtto 103
+Emil 104
+Elon 72
+Agnes 88
+MiaJ 85
+Jakob 87
+>>>>>>> upstream/master
