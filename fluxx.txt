@@ -34,3 +34,8 @@ Rakel 0
 game 2019-07-07 21:25
 Agnete 100
 Allan 200
+
+game 2019-07-08 10:52
+Agnete 0
+Allan 1
+Agnete 0
